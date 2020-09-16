@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Faktor {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int A = sc.nextInt();
+        int I = sc.nextInt();
+
+        int answer = 0;
+
+        // do your work here, store result in variable 'answer'
+        // 'A' and 'I' are integers
+
+        System.out.println(answer);
+    }
+
+}
